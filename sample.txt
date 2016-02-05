@@ -6,3 +6,4 @@ conflict 1
 conflict 2
 
 add 1
+add 2
