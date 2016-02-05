@@ -2,4 +2,8 @@ test test
 
 new line
 
+<<<<<<< HEAD
 conflict 1
+=======
+conflict 2
+>>>>>>> 18d234a8a99d44662f6b388b62306bee1cc61e2c
